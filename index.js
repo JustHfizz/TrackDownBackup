@@ -12,7 +12,7 @@ app.use(urlencodedParser);
 app.set("view engine", "ejs");
 
 //Modify your URL here
-var hostURL="YOUR URL"
+var hostURL="https://track-down-backup-8t95nav6u-hfizteam.vercel.app/"
 
 
 
